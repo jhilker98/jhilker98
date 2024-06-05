@@ -18,9 +18,8 @@ I'm most comfortable working in Python, though I have experience with Javascript
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Writing Literate Configs with Org-mode](https://jhilker.com/blog/2023/10/writing-literate-configs-with-org-mode/)
-- [Why I Left Hugo for Astro](https://jhilker.com/blog/2023/10/leaving-hugo-for-astro/)
-- [The Best Tiling Window Managers For Beginners](https://jhilker.com/blog/2021/12/the-best-tiling-window-managers-for-beginners/)
-- [Building A Website From Our Notes](https://jhilker.com/blog/2021/09/building-a-website-from-our-notes/)
-- [A PSA for my Org-Roam Hydra](https://jhilker.com/blog/2021/08/my-org-roam-hydra-psa/)
 <!-- BLOG-POST-LIST:END -->
+
+## Recent Activity
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
