@@ -27,5 +27,6 @@ I'm most comfortable working in Python, though I have experience with Javascript
 
 ## Recent Activity
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
