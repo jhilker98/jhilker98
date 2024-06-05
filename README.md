@@ -17,3 +17,5 @@ I'm an avid gamer (both tabletop and video games) and programmer, with my favori
 I'm most comfortable working in Python, though I have experience with Javascript and HTML/CSS.
 
 ## Recent Blog Posts
+<!-- BLOG-POST-LIST:start -->
+<!-- BLOG-POST-LIST:end -->
