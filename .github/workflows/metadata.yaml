@@ -1,4 +1,6 @@
 name: Metrics
+env: 
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
