@@ -26,5 +26,6 @@ I'm most comfortable working in Python, though I have experience with Javascript
 <!-- BLOG-POST-LIST:END -->
 
 ## Recent Activity
+
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
